@@ -28,9 +28,9 @@
                 <select id="searchCity" required name="city" class="form-control">
                     <option value="">Город не выбран</option>
 
-                    <option value="Москва">Москва</option>
-                    <option value="Красноярск">Красноярск</option>
-                    <option value="Казань">Казань</option>
+                    <option value="Київ">Київ</option>
+                    <option value="Чернігів">Чернігів</option>
+                    <option value="Львів">Львів</option>
 
                 </select>
             </div>
